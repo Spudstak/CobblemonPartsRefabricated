@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#BY",
+    "GiG"
+  ],
+  "key": {
+    "#": {
+      "item": "cobblemon:black_apricorn"
+    },
+    "G": {
+      "item": "cobblemon:white_apricorn"
+    },
+    "Y": {
+      "item": "cobblemon:yellow_apricorn"
+    },
+    "B": {
+      "tag": "cobblemonpartsrefabricated:hammers"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "cobblemonpartsrefabricated:luxury_ball_base",
+    "count": 4
+  }
+}

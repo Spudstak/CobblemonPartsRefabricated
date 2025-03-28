@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#i#",
+        "#I#"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemon:pink_apricorn"
+        },
+        "I": {
+            "tag": "cobblemonpartsrefabricated:hammers"
+        },
+        "i": {
+            "item": "minecraft:copper_ingot"
+        }
+    },
+    "result": {
+        "id": "cobblemonpartsrefabricated:roseate_ball_lid",
+        "count": 4
+    }
+}

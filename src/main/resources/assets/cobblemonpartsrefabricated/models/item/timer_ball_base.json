@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cobblemonpartsrefabricated:item/timer_ball_base"
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AHA",
+        "ANA",
+        "ABA"
+    ],
+    "key": {
+        "B": {
+            "item": "cobblemonpartsrefabricated:masterwork_blueprint"
+        },
+        "A": {
+            "item": "cobblemonpartsrefabricated:ambiguous_shard"
+        },
+        "N": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "H": {
+            "item": "cobblemonpartsrefabricated:netherite_hammer"
+        }
+    },
+    "result": {
+        "id": "cobblemonpartsrefabricated:master_worked_metal",
+        "count": 1
+    }
+}

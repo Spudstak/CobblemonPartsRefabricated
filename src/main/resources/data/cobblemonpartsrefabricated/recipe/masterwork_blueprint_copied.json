@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ABA",
+        "APA",
+        "AAA"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:paper"
+        },
+        "B": {
+            "item": "cobblemonpartsrefabricated:masterwork_blueprint"
+        },
+        "A": {
+            "item": "cobblemonpartsrefabricated:ambiguous_shard"
+        }
+    },
+    "result": {
+        "id": "cobblemonpartsrefabricated:masterwork_blueprint",
+        "count": 2
+    }
+}

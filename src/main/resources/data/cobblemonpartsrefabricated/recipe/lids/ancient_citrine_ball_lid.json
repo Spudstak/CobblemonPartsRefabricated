@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#i#",
+        "DID"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemon:yellow_apricorn"
+        },
+        "I": {
+            "tag": "cobblemonpartsrefabricated:hammers"
+        },
+        "D": {
+            "item": "cobblemon:tumblestone"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "id": "cobblemonpartsrefabricated:ancient_citrine_ball_lid",
+        "count": 4
+    }
+}

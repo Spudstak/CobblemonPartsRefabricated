@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#IR",
+    "DiD"
+  ],
+  "key": {
+    "#": {
+      "item": "cobblemon:black_apricorn"
+    },
+    "I": {
+      "tag": "cobblemonpartsrefabricated:hammers"
+    },
+    "R": {
+      "item": "cobblemon:black_apricorn"
+
+    },
+    "D": {
+      "item": "cobblemon:black_tumblestone"
+    },
+    "i": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "id": "cobblemonpartsrefabricated:ancient_heavy_ball_base",
+    "count": 4
+  }
+}

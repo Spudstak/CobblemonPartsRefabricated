@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemonpartsrefabricated:thunder_stone_shard"
+        }
+    },
+    "result": {
+        "id": "cobblemon:thunder_stone",
+        "count": 1
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#I#",
+    "DiD"
+  ],
+  "key": {
+    "#": {
+      "item": "cobblemon:red_apricorn"
+    },
+    "I": {
+      "tag": "cobblemonpartsrefabricated:hammers"
+    },
+    "D": {
+      "item": "minecraft:redstone"
+    },
+    "i": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "id": "cobblemonpartsrefabricated:cherish_ball_base",
+    "count": 4
+  }
+}

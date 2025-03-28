@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemonpartsrefabricated:dusk_stone_shard"
+        }
+    },
+    "result": {
+        "id": "cobblemon:dusk_stone",
+        "count": 1
+    }
+}

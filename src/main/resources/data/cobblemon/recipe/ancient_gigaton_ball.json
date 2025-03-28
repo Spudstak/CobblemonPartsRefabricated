@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "I",
+        "i"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemonpartsrefabricated:ancient_gigaton_ball_lid"
+        },
+        "I": {
+            "item": "minecraft:iron_nugget"
+        },
+        "i": {
+            "item": "cobblemonpartsrefabricated:ancient_heavy_ball_base"
+        }
+    },
+    "result": {
+        "id": "cobblemon:ancient_gigaton_ball",
+        "count": 1
+    }
+}

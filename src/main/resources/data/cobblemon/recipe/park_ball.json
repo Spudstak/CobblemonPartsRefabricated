@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "I",
+        "i"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemonpartsrefabricated:park_ball_lid"
+        },
+        "I": {
+            "item": "minecraft:iron_nugget"
+        },
+        "i": {
+            "item": "cobblemonpartsrefabricated:park_ball_base"
+        }
+    },
+    "result": {
+        "id": "cobblemon:park_ball",
+        "count": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DIR",
+    "#i#"
+  ],
+  "key": {
+    "#": {
+      "item": "cobblemon:green_apricorn"
+    },
+    "I": {
+      "tag": "cobblemonpartsrefabricated:hammers"
+    },
+    "D": {
+      "item": "cobblemon:black_apricorn"
+    },
+    "R": {
+      "item": "cobblemon:red_apricorn"
+    },
+    "i": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "id": "cobblemonpartsrefabricated:dusk_ball_base",
+    "count": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#I#",
+        "DiD"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:echo_shard"
+        },
+        "I": {
+            "item": "cobblemonpartsrefabricated:diamond_hammer"
+        },
+        "D": {
+            "item": "minecraft:lapis_lazuli"
+        },
+        "i": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "id": "cobblemonpartsrefabricated:beast_ball_base",
+        "count": 4
+    }
+}

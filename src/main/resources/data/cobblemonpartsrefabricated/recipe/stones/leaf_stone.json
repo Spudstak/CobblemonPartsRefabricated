@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemonpartsrefabricated:leaf_stone_shard"
+        }
+    },
+    "result": {
+        "id": "cobblemon:leaf_stone",
+        "count": 1
+    }
+}

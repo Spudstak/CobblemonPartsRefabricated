@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#i#",
+        "DID"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemon:green_apricorn"
+        },
+        "I": {
+            "tag": "cobblemonpartsrefabricated:hammers"
+        },
+        "D": {
+            "item": "cobblemon:red_apricorn"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "id": "cobblemonpartsrefabricated:friend_ball_lid",
+        "count": 4
+    }
+}

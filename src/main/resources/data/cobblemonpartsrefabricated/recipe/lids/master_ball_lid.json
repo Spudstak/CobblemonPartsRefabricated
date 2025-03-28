@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#iR",
+        "DID"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemonpartsrefabricated:ultra_ball_lid"
+        },
+        "I": {
+            "item": "cobblemonpartsrefabricated:netherite_hammer"
+         },
+        "R": {
+            "item": "cobblemonpartsrefabricated:great_ball_lid"
+        },
+        "D": {
+            "item": "cobblemonpartsrefabricated:ambiguous_shard"
+        },
+        "i": {
+            "item": "cobblemonpartsrefabricated:master_worked_metal"
+        }
+    },
+    "result": {
+        "id": "cobblemonpartsrefabricated:master_ball_lid",
+        "count": 1
+    }
+}

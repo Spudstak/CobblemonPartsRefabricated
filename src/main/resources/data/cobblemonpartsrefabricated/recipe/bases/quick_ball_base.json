@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#I#",
+    "DiD"
+  ],
+  "key": {
+    "#": {
+      "item": "cobblemon:yellow_apricorn"
+    },
+    "I": {
+      "tag": "cobblemonpartsrefabricated:hammers"
+    },
+    "D": {
+      "item": "cobblemon:blue_apricorn"
+    },
+    "i": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "id": "cobblemonpartsrefabricated:quick_ball_base",
+    "count": 4
+  }
+}

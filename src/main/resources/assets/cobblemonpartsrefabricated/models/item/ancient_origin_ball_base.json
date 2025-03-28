@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cobblemonpartsrefabricated:item/ancient_origin_ball_base"
+  }
+}

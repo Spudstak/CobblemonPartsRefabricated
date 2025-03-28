@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#iR",
+        "DID"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemonpartsrefabricated:ancient_gigaton_ball_lid"
+        },
+        "I": {
+            "item": "cobblemonpartsrefabricated:netherite_hammer"
+         },
+        "R": {
+            "item": "cobblemonpartsrefabricated:ancient_jet_ball_lid"
+        },
+        "D": {
+            "item": "cobblemonpartsrefabricated:ambiguous_shard"
+        },
+        "i": {
+            "item": "cobblemonpartsrefabricated:master_worked_metal"
+        }
+    },
+    "result": {
+        "id": "cobblemonpartsrefabricated:ancient_origin_ball_lid",
+        "count": 1
+    }
+}

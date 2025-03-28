@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#i#",
+        "DID"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemon:pink_apricorn"
+        },
+        "I": {
+            "tag": "cobblemonpartsrefabricated:hammers"
+        },
+        "D": {
+            "item": "cobblemon:red_apricorn"
+        },
+        "i": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "id": "cobblemonpartsrefabricated:dream_ball_lid",
+        "count": 4
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemon:moon_stone"
+        }
+    },
+    "result": {
+        "id": "cobblemonpartsrefabricated:moon_stone_shard",
+        "count": 9
+    }
+}

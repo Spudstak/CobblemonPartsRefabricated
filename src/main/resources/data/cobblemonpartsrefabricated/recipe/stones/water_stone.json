@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemonpartsrefabricated:water_stone_shard"
+        }
+    },
+    "result": {
+        "id": "cobblemon:water_stone",
+        "count": 1
+    }
+}

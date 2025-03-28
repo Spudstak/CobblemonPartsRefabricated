@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "cobblemonpartsrefabricated",
+	"version": "${version}",
+	"name": "Cobblemon Parts Refabricated",
+	"description": "Adds various pokeball parts to make pokeball crafting feel more realistic!",
+	"authors": [
+		"Spudstak"
+	],
+	"contact": {
+		"homepage": "https://spudstak.dev",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/cobblemonpartsrefabricated/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.spudstak.cobblemonpartsrefabricated.CobblemonPartsRefabricated"
+		]
+	},
+	"depends": {
+		"cobblemon": "1.6.1",
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

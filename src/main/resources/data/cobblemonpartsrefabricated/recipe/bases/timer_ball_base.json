@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#B#",
+    "GiG"
+  ],
+  "key": {
+    "#": {
+      "item": "cobblemon:red_apricorn"
+    },
+    "G": {
+      "item": "cobblemon:white_apricorn"
+    },
+    "B": {
+      "tag": "cobblemonpartsrefabricated:hammers"
+    },
+    "i": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "id": "cobblemonpartsrefabricated:timer_ball_base",
+    "count": 4
+  }
+}

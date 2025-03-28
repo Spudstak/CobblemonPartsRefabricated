@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#i#",
+        "GIG"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemon:yellow_apricorn"
+        },
+        "G": {
+            "item": "cobblemon:green_apricorn"
+        },
+        "I": {
+            "tag": "cobblemonpartsrefabricated:hammers"
+        },
+        "i": {
+            "item": "minecraft:copper_ingot"
+        }
+    },
+    "result": {
+        "id": "cobblemonpartsrefabricated:safari_ball_lid",
+        "count": 4
+    }
+}

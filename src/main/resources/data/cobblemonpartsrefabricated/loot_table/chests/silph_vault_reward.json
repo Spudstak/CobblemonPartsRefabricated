@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "conditions": [],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemonpartsrefabricated:masterwork_blueprint"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "cobblemonpartsrefabricated:chests/silph_vault_reward"
+}

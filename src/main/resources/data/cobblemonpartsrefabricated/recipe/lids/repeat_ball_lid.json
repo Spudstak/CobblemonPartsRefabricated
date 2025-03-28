@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#iY",
+        "GIG"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemon:black_apricorn"
+        },
+        "G": {
+            "item": "cobblemon:red_apricorn"
+        },
+        "Y": {
+            "item": "cobblemon:yellow_apricorn"
+        },
+        "I": {
+            "tag": "cobblemonpartsrefabricated:hammers"
+        },
+        "i": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "id": "cobblemonpartsrefabricated:repeat_ball_lid",
+        "count": 4
+    }
+}

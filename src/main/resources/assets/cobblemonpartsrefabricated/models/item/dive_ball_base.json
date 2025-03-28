@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cobblemonpartsrefabricated:item/dive_ball_base"
+  }
+}

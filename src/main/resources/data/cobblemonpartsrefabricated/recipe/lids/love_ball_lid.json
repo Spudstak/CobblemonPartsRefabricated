@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#i#",
+        "DID"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemon:white_apricorn"
+        },
+        "I": {
+            "tag": "cobblemonpartsrefabricated:hammers"
+        },
+        "D": {
+            "item": "cobblemon:pink_apricorn"
+        },
+        "i": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "id": "cobblemonpartsrefabricated:love_ball_lid",
+        "count": 4
+    }
+}

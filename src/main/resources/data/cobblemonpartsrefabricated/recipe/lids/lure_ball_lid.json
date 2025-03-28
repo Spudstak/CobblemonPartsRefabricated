@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#iG",
+        "YIY"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemon:red_apricorn"
+        },
+        "G": {
+            "item": "cobblemon:blue_apricorn"
+        },
+        "Y": {
+            "item": "cobblemon:green_apricorn"
+        },
+        "I": {
+            "tag": "cobblemonpartsrefabricated:hammers"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "id": "cobblemonpartsrefabricated:lure_ball_lid",
+        "count": 4
+    }
+}

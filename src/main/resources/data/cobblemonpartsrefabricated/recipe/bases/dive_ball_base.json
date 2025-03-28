@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DID",
+    "DiD"
+  ],
+  "key": {
+    "I": {
+      "tag": "cobblemonpartsrefabricated:hammers"
+    },
+    "D": {
+      "item": "cobblemon:blue_apricorn"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "cobblemonpartsrefabricated:dive_ball_base",
+    "count": 4
+  }
+}

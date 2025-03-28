@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "cobblemonpartsrefabricated:dawn_stone_shard"
+        }
+    },
+    "result": {
+        "id": "cobblemon:dawn_stone",
+        "count": 1
+    }
+}

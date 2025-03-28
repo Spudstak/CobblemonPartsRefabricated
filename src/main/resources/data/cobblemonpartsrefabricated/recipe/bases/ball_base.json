@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "cobblemonpartsrefabricated:iron_hammer"
+        },
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    ],
+    "result": {
+        "id": "cobblemonpartsrefabricated:ball_base",
+        "count": 2
+    }
+}

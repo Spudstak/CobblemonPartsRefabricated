@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#I#",
+    "DiD"
+  ],
+  "key": {
+    "#": {
+      "item": "cobblemon:pink_apricorn"
+    },
+    "I": {
+      "tag": "cobblemonpartsrefabricated:hammers"
+    },
+    "D": {
+      "item": "cobblemon:white_apricorn"
+    },
+    "i": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "id": "cobblemonpartsrefabricated:heal_ball_base",
+    "count": 4
+  }
+}
